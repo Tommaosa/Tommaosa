@@ -71,9 +71,34 @@
 
 
 ## 📊 GitHub Stats
-![PINO-AI GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+<!-- Top GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
----
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<div align="center">
+  <a href="https://github.com/Tommaosa">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tommaosa&theme=discord_old_blurple" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tommaosa&theme=discord_old_blurple" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tommaosa&theme=discord_old_blurple" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tommaosa&theme=discord_old_blurple" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tommaosa&theme=discord_old_blurple" height="180em" />
+  </a>
+</div>
+
+<!-- Bottom GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
+
+<h2 align="left">⚡ Activity Graph:</h2>
+
+<!-- Optional: Add your activity graph here -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tommaosa&theme=discord_old_blurple" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
