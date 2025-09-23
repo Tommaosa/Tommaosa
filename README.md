@@ -6,6 +6,8 @@
 
  <dev>
  <p align="center", display="block">
+   </div><h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://t.me/LINK_HERE"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://wa.me/LINK_HERE"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://instagram.com/LINK_HERE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
