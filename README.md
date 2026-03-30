@@ -17,7 +17,7 @@
  </dev>
 
        alt="Typing SVG" 
-       style="max-width:100%; height:auto;" />
+/>
 </a>
 
 
