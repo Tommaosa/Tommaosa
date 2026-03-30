@@ -16,7 +16,7 @@
 </p>
  </dev>
 
-       alt="Typing SVG" 
+       
 />
 </a>
 
